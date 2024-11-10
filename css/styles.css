@@ -16,3 +16,22 @@ h2 {
 }
 
 
+.genero {
+
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+}
+
+.peliculas {
+  justify-content: space-between;
+  width: 10.5%;
+
+}
+
+.imagenPelicula {
+  width: 100%;
+  height: auto;
+}
+
